@@ -1,0 +1,11 @@
+eu_sdg,dimension,dimension_label,unit,unit_label,geo,geo_label,time,obs_value,obs_status
+indp005,INDP_W_HM,Industrial pollutant releases to water in Europe – Heavy Metals,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2010,100.0,
+indp005,INDP_W_HM,Industrial pollutant releases to water in Europe – Heavy Metals,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2023,46.6,E
+indp005,INDP_W_TOC,Total Organic Carbon (TOC),I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2010,100.0,
+indp005,INDP_W_TOC,Total Organic Carbon (TOC),I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2023,62.3,E
+indp005,INDP_W_N,Total Nitrogen,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2010,100.0,
+indp005,INDP_W_N,Total Nitrogen,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2023,80.7,E
+indp005,INDP_W_P,Total Phosphorus,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2010,100.0,
+indp005,INDP_W_P,Total Phosphorus,I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2023,72.2,E
+indp005,INDP_W_GVA,Gross Value Added (GVA),I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2010,100.0,
+indp005,INDP_W_GVA,Gross Value Added (GVA),I10,"Index, 2010 = 100",EU27_2020,European Union - 27 countries (from 2020),2023,117.6,
