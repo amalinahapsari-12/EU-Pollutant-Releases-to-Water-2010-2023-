@@ -100,16 +100,20 @@ This project demonstrates how public environmental datasets can reveal trends in
 ```
 EU-Pollutant-Releases-to-Water-2010-2023/
 │
+├── README.md
 ├── data/
-│   └── [Optional raw or cleaned dataset]
-│
-├── visualizations/
+│   ├── pollution_data_cleaned.csv  
+│   ├── pollution_data_2023.csv
+│   └── pollution_data_2010_vs_2023.csv     
+├── notebooks/
+│   └── EU Pollutant Releases to Water (2010–2023).ipynb
+├── images/
 │   ├── Area Chart – Stacked Area.png
 │   ├── Bar Chart – Compare Pollutants in 2023.png
 │   ├── Heatmap – Year vs Pollutant.png
 │   ├── Line Chart – Pollutant Trends Over Time.png
 │   └── Slope Chart – First vs Last Year.png
-│
-├── README.md
-└── .gitignore
+└── exports/ (optional)
+    └── Final outputs or PDFs
+
 ```
